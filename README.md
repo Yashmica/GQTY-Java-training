@@ -1,1 +1,1 @@
-# GQTY-Java-training
+# GQT-Java-training
